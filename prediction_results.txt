@@ -1,0 +1,1607 @@
+Prediction Results
+========================================
+
+Processing folder: input_files/valve
+Audio File: input_files/valve/section_00_source_train_normal_0068_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.98776
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0147_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99459
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0070_pattern_00_no_pump.wav
+Predicted Class: valve
+Confidence: 0.98747
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0052_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99507
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0081_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.94504
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0132_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.98670
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0107_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.88123
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0051_pattern_01_no_pump.wav
+Predicted Class: valve
+Confidence: 0.97349
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0122_pattern_01_no_pump.wav
+Predicted Class: valve
+Confidence: 0.89173
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0148_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99898
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0110_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.94879
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0099_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.38992
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0117_pattern_01_no_pump.wav
+Predicted Class: valve
+Confidence: 0.87290
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0103_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 1.00000
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0067_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 1.00000
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0056_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 1.00000
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0143_pattern_00_no_pump.wav
+Predicted Class: valve
+Confidence: 0.91445
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0149_pattern_00_no_pump.wav
+Predicted Class: valve
+Confidence: 0.97813
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0108_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.95769
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0085_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99641
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0092_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.96233
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0121_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99868
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0096_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99256
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0125_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.85934
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0074_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 1.00000
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0114_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.95669
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0126_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.91727
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0053_pattern_01_no_pump.wav
+Predicted Class: valve
+Confidence: 0.99531
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0095_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99529
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0078_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99525
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0104_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.90882
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0060_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.87488
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0064_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.97034
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0144_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99702
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0055_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99723
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0082_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.96335
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0135_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.95949
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0073_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.96144
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0077_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.90116
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0141_pattern_00_no_pump.wav
+Predicted Class: valve
+Confidence: 0.99550
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0086_pattern_00_no_pump.wav
+Predicted Class: valve
+Confidence: 0.71069
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0129_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.96483
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0113_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.92596
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0118_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99752
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0091_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99535
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0140_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.88675
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0131_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.87583
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0123_pattern_01_no_pump.wav
+Predicted Class: valve
+Confidence: 0.96892
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0050_pattern_01_no_pump.wav
+Predicted Class: valve
+Confidence: 0.93129
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0100_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.95167
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0111_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99541
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0098_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99864
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0089_pattern_01_no_pump.wav
+Predicted Class: valve
+Confidence: 0.99580
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0063_pattern_00_no_pump.wav
+Predicted Class: valve
+Confidence: 0.82233
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0120_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99429
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0124_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.69722
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0097_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.93011
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0136_pattern_01_no_pump.wav
+Predicted Class: valve
+Confidence: 0.91832
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0146_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.89923
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0069_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.96606
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0062_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99147
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0066_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99859
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0093_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99531
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0071_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.96765
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0075_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99630
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0058_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.96901
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0138_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 1.00000
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0102_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.98822
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0109_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 1.00000
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0080_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.95404
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0084_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.94372
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0057_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.95598
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0142_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.95319
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0061_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99508
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0088_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.97081
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0133_pattern_01_no_pump.wav
+Predicted Class: valve
+Confidence: 0.95813
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0087_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.98755
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0134_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 1.00000
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0139_pattern_01_no_pump.wav
+Predicted Class: valve
+Confidence: 0.95109
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0079_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.96460
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0115_pattern_00_no_pump.wav
+Predicted Class: valve
+Confidence: 0.83673
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0090_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 1.00000
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0127_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.95821
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0094_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.94705
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0119_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99716
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0116_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 1.00000
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0128_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99406
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0076_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.95379
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0106_pattern_01_no_pump.wav
+Predicted Class: valve
+Confidence: 0.97231
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0083_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99440
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0054_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99005
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0065_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 1.00000
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0101_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 0.95295
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0105_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.99125
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0137_pattern_01_no_pump.wav
+Predicted Class: valve
+Confidence: 0.88774
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0112_pattern_00_air_pump.wav
+Predicted Class: valve
+Confidence: 1.00000
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0072_pattern_01_air_pump.wav
+Predicted Class: valve
+Confidence: 0.86596
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0059_pattern_00_no_pump.wav
+Predicted Class: valve
+Confidence: 0.96037
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0145_pattern_01_no_pump.wav
+Predicted Class: valve
+Confidence: 0.87420
+----------------------------------------
+Audio File: input_files/valve/section_00_source_train_normal_0130_pattern_01_no_pump.wav
+Predicted Class: valve
+Confidence: 0.86441
+----------------------------------------
+Processing folder: input_files/pump
+Audio File: input_files/pump/section_00_source_train_normal_0946_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.40756
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0937_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.39464
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0880_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.45638
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0909_serial_no_000_water.wav
+Predicted Class: fan
+Confidence: 0.39982
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0906_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.35124
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0938_serial_no_000_water.wav
+Predicted Class: gearbox
+Confidence: 0.38862
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0949_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.46082
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0964_serial_no_000_water.wav
+Predicted Class: fan
+Confidence: 0.38719
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0915_serial_no_000_water.wav
+Predicted Class: gearbox
+Confidence: 0.35296
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0924_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.35484
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0893_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.53138
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0955_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.48448
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0902_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.42587
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0973_serial_no_000_water.wav
+Predicted Class: gearbox
+Confidence: 0.39482
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0942_serial_no_000_water.wav
+Predicted Class: fan
+Confidence: 0.42450
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0884_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.48305
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0933_serial_no_000_water.wav
+Predicted Class: gearbox
+Confidence: 0.36391
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0897_serial_no_000_water.wav
+Predicted Class: fan
+Confidence: 0.40601
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0920_serial_no_000_water.wav
+Predicted Class: gearbox
+Confidence: 0.35237
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0951_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.39945
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0875_serial_no_000_water.wav
+Predicted Class: gearbox
+Confidence: 0.38593
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0960_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.45063
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0898_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.35304
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0911_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.47202
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0894_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.53672
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0923_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.53996
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0952_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.46113
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0879_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.42981
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0963_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.45970
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0876_serial_no_000_water.wav
+Predicted Class: fan
+Confidence: 0.38041
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0912_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.56624
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0901_serial_no_000_water.wav
+Predicted Class: valve
+Confidence: 0.81347
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0888_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.35392
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0970_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.35790
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0941_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.42135
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0887_serial_no_000_water.wav
+Predicted Class: gearbox
+Confidence: 0.34390
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0930_serial_no_000_water.wav
+Predicted Class: fan
+Confidence: 0.36870
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0959_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.37793
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0967_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.42076
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0928_serial_no_000_water.wav
+Predicted Class: fan
+Confidence: 0.37664
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0916_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.36507
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0919_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.44076
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0927_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.45699
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0890_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.44596
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0968_serial_no_000_water.wav
+Predicted Class: gearbox
+Confidence: 0.39470
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0956_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.49517
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0945_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.53376
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0934_serial_no_000_water.wav
+Predicted Class: gearbox
+Confidence: 0.36861
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0883_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.41818
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0905_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.44557
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0974_serial_no_000_water.wav
+Predicted Class: fan
+Confidence: 0.38416
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0910_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.42826
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0899_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.52801
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0961_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.52950
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0950_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.48907
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0896_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.53781
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0921_serial_no_000_water.wav
+Predicted Class: fan
+Confidence: 0.34808
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0885_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.54209
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0932_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.53452
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0943_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.50949
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0972_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.48293
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0903_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.54660
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0954_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.54643
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0925_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.34618
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0892_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.42795
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0914_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.45760
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0965_serial_no_000_water.wav
+Predicted Class: valve
+Confidence: 0.69942
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0948_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.47830
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0939_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.39098
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0907_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.42878
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0908_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.52173
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0936_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.35294
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0881_serial_no_000_water.wav
+Predicted Class: gearbox
+Confidence: 0.38658
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0947_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.40535
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0975_serial_no_000_water.wav
+Predicted Class: valve
+Confidence: 0.90631
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0904_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.36754
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0935_serial_no_000_water.wav
+Predicted Class: valve
+Confidence: 0.83138
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0882_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.43537
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0944_serial_no_000_water.wav
+Predicted Class: fan
+Confidence: 0.35159
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0957_serial_no_000_water.wav
+Predicted Class: fan
+Confidence: 0.34777
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0969_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.43973
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0926_serial_no_000_water.wav
+Predicted Class: gearbox
+Confidence: 0.40198
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0891_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.62644
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0918_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.53815
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0917_serial_no_000_water.wav
+Predicted Class: gearbox
+Confidence: 0.39154
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0929_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.44421
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0966_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.49734
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0958_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.37222
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0886_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.34201
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0931_serial_no_000_water.wav
+Predicted Class: valve
+Confidence: 0.30372
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0940_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.34465
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0971_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.39866
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0889_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.35698
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0900_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.54882
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0913_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.49874
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0962_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.47510
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0953_serial_no_000_water.wav
+Predicted Class: gearbox
+Confidence: 0.36510
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0878_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.56788
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0895_serial_no_000_water.wav
+Predicted Class: pump
+Confidence: 0.35150
+----------------------------------------
+Audio File: input_files/pump/section_00_source_train_normal_0922_serial_no_000_water.wav
+Predicted Class: gearbox
+Confidence: 0.34858
+----------------------------------------
+Processing folder: input_files/fan
+Audio File: input_files/fan/section_00_source_train_normal_0093_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.42132
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0052_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.39648
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0121_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.42789
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0099_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.36827
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0058_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.35006
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0069_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.35871
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0063_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.34928
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0110_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40610
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0094_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40362
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0055_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.42026
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0126_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.44465
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0064_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.35382
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0117_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.42159
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0097_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.42558
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0125_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.43459
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0056_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.40403
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0114_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40405
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0067_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.36398
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0128_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.37834
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0090_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40058
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0122_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.39226
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0051_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.37844
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0113_strength_1_ambient.wav
+Predicted Class: valve
+Confidence: 0.81753
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0060_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.41365
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0119_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.34872
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0118_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.40538
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0061_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.43163
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0112_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.41725
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0050_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.39175
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0123_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.39487
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0091_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40996
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0129_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.38896
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0066_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.41462
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0115_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.36308
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0057_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.36769
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0124_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.41649
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0096_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.39087
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0116_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.41890
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0065_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.39114
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0127_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.40261
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0054_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.41349
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0095_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.42526
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0111_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.42532
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0062_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.41018
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0068_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.34444
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0059_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.37328
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0098_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.37354
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0120_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.38784
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0053_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.41676
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0092_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.41729
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0109_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.38524
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0103_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.42641
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0070_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.43135
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0147_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.43800
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0080_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.33630
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0132_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.37313
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0138_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.42516
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0104_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.39242
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0077_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.35816
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0140_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.38715
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0087_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.40865
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0135_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.41534
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0074_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.43228
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0107_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.42222
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0149_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.43326
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0084_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.38944
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0136_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.43071
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0143_strength_1_ambient.wav
+Predicted Class: valve
+Confidence: 0.52166
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0073_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.39371
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0100_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.37381
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0079_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.35567
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0089_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.39399
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0083_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.43635
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0131_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.41847
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0144_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40977
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0130_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40531
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0082_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.35006
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0145_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.40335
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0088_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.42605
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0078_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.45953
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0101_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.43283
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0072_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.42778
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0137_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.38900
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0085_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.37625
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0142_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.38690
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0148_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40175
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0106_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.38377
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0075_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40418
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0141_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.36672
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0134_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.36299
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0086_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.41289
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0076_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.38800
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0105_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.36113
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0139_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.39148
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0146_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.34956
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0133_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40023
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0081_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.37911
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0071_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.35204
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0102_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.37196
+----------------------------------------
+Audio File: input_files/fan/section_00_source_train_normal_0108_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40943
+----------------------------------------
+Processing folder: input_files/gearbox
+Audio File: input_files/gearbox/section_00_source_train_normal_0093_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.42132
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0052_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.39648
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0121_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.42789
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0099_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.36827
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0058_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.35006
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0069_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.35871
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0063_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.34928
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0110_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40610
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0094_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40362
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0055_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.42026
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0126_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.44465
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0064_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.35382
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0117_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.42159
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0097_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.42558
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0125_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.43459
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0056_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.40403
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0114_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40405
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0067_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.36398
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0128_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.37834
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0090_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40058
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0122_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.39226
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0051_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.37844
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0113_strength_1_ambient.wav
+Predicted Class: valve
+Confidence: 0.81753
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0060_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.41365
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0119_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.34872
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0118_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.40538
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0061_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.43163
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0112_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.41725
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0050_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.39175
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0123_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.39487
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0091_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40996
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0129_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.38896
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0066_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.41462
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0115_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.36308
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0057_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.36769
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0124_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.41649
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0096_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.39087
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0116_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.41890
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0065_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.39114
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0127_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.40261
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0054_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.41349
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0095_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.42526
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0111_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.42532
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0062_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.41018
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0068_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.34444
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0059_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.37328
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0098_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.37354
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0120_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.38784
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0053_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.41676
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0092_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.41729
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0109_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.38524
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0103_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.42641
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0070_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.43135
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0147_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.43800
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0080_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.33630
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0132_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.37313
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0138_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.42516
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0104_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.39242
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0077_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.35816
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0140_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.38715
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0087_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.40865
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0135_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.41534
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0074_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.43228
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0107_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.42222
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0149_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.43326
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0084_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.38944
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0136_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.43071
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0143_strength_1_ambient.wav
+Predicted Class: valve
+Confidence: 0.52166
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0073_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.39371
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0100_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.37381
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0079_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.35567
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0089_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.39399
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0083_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.43635
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0131_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.41847
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0144_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40977
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0130_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40531
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0082_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.35006
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0145_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.40335
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0088_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.42605
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0078_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.45953
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0101_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.43283
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0072_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.42778
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0137_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.38900
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0085_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.37625
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0142_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.38690
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0148_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40175
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0106_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.38377
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0075_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40418
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0141_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.36672
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0134_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.36299
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0086_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.41289
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0076_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.38800
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0105_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.36113
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0139_strength_1_ambient.wav
+Predicted Class: gearbox
+Confidence: 0.39148
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0146_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.34956
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0133_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40023
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0081_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.37911
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0071_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.35204
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0102_strength_1_ambient.wav
+Predicted Class: pump
+Confidence: 0.37196
+----------------------------------------
+Audio File: input_files/gearbox/section_00_source_train_normal_0108_strength_1_ambient.wav
+Predicted Class: fan
+Confidence: 0.40943
+----------------------------------------

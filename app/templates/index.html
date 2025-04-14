@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Classification</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Audio Classification System</h1>
+            <p>Upload your audio files to classify machine sounds.</p>
+        </header>
+
+        <div class="upload-box">
+            <input type="file" id="fileInput" multiple accept=".wav">
+            <label for="fileInput">Choose Files</label>
+        </div>
+
+        <div class="results-wrapper">
+            <h2>Results</h2>
+            <div id="results" class="results-container"></div>
+        </div>
+    </div>
+
+    <script>
+        const CLASS_COLORS = {
+            "fan": "#ff6b6b",       // Red
+            "gearbox": "#4fc3f7",   // Blue
+            "pump": "#ba68c8",      // Purple
+            "valve": "#4caf50"      // Green
+        };
+
+        document.getElementById('fileInput').addEventListener('change', async (e) => {
+            const files = e.target.files;
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '<div class="loading">Processing files...</div>';
+
+            // Clear previous results
+            resultsDiv.innerHTML = '';
+
+            for (const file of files) {
+                const formData = new FormData();
+                formData.append('file', file);
+
+                try {
+                    const response = await fetch('/predict/', {
+                        method: 'POST',
+                        body: formData,
+                    });
+
+                    const data = await response.json();
+
+                    const resultCard = document.createElement('div');
+                    resultCard.className = 'result-card';
+
+                    if (data.error) {
+                        resultCard.innerHTML = `
+                            <p>Error processing ${file.name}: ${data.error}</p>
+                        `;
+                    } else {
+                        const color = CLASS_COLORS[data.predicted_class.toLowerCase()] || "#ffffff";
+
+                        resultCard.innerHTML = `
+                            <p>Predicted class for the audio file 
+                            <strong>${file.name}</strong> is 
+                            <strong style="color: ${color}">${data.predicted_class}</strong> 
+                            with a confidence of 
+                            <strong>${data.confidence.toFixed(5)}</strong>.</p>
+                        `;
+                    }
+
+                    resultsDiv.appendChild(resultCard);
+                } catch (error) {
+                    const errorCard = document.createElement('div');
+                    errorCard.className = 'result-card error';
+                    errorCard.innerHTML = `<p>Error processing ${file.name}.</p>`;
+                    resultsDiv.appendChild(errorCard);
+                }
+            }
+        });
+    </script>
+</body>
+</html>
